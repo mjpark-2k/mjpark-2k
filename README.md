@@ -10,7 +10,7 @@
 
 ### 🛠 Tech Stack
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white"/>
@@ -23,16 +23,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=git&logoColor=white"/>
 </p>
-
----
-
-### ✨ Projects
-
-| 프로젝트 | 설명 | 링크 |
-|----------|------|------|
-| 🎨 Portfolio | 반응형 개인 포트폴리오 웹사이트 | [보기](https://github.com/yourusername/portfolio) |
-| 🔐 Firebase Auth | Firebase 기반 로그인 시스템 | [보기](https://github.com/yourusername/firebase-auth) |
-| 📱 Landing Page | 모바일 퍼스트 랜딩 페이지 | [보기](https://github.com/yourusername/landing-page) |
 
 ---
 
