@@ -29,8 +29,7 @@
 ### 🌱 About Me
 
 - 💡 **사용자 중심 UI/UX**에 관심이 많아요  
-- 🔄 꾸준한 **리팩토링 & 코드 개선**에 집중하고 있어요  
-- 🧠 공부한 내용은 [블로그](https://your-blog-url.com)에 정리해요  
+- 🔄 꾸준한 **리팩토링 & 코드 개선**에 집중하고 있어요   
 - ☕ 사이드 프로젝트를 좋아합니다. 협업 환영!
 
 ---
@@ -38,9 +37,8 @@
 ### 📫 Contact
 
 <p>
-  💌 Email: your@email.com<br/>
-  🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com)<br/>
-  📘 Blog: [your-blog.com](https://your-blog.com)
+  💌 [Email](mjpark.2k@gmail.com)<br/>
+  🌐 [Portfolio](https://portfolio-mj2k.vercel.app)
 </p>
 
 ---
