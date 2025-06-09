@@ -37,8 +37,8 @@
 ### 📫 Contact
 
 <p>
-  💌 [Email](mjpark.2k@gmail.com)<br/>
-  🌐 [Portfolio](https://portfolio-mj2k.vercel.app)
+  💌 Email : [Email](melto:mjpark.2k@gmail.com)<br/>
+  🌐 Portfolio : [Portfolio](https://portfolio-mj2k.vercel.app)
 </p>
 
 ---
